@@ -4,6 +4,10 @@
 
 Documentación sobre cómo fabricar un receptor de infrarrojos modulado a 38 Khz para la placa FPGA Icezum Alhambra o Alhambra II.
 
+**Nota** :  Esta construcción sirve de apoyo a mi Cuaderno sobre comunicación y control mediante infrarrojos con la placa Icezum Alhambra y Alhambra II . 
+
+Ver en este enlace : (https://github.com/makerventura/FPGAs_Infrarrojos-Comunicacion-y-Control.git)
+
 
 
 ![IMG_20190420_203822](https://raw.githubusercontent.com/makerventura/Mundo_FPGA_libre/master/Imagenes/IMG_20190420_203822.jpg)
